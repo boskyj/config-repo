@@ -1,2 +1,3 @@
 service:
  name:  service name default
+ description: Sample project
